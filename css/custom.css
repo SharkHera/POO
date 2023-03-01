@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+.carre{
+    position: absolute;
+    background-color: rgb(43, 6, 78);
+    width: 40%;
+    height: 45%;
+    top: 0%;
+    left: 0%;
+    z-index: -5;
+}
